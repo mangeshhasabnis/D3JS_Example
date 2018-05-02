@@ -28,8 +28,6 @@ import { HomeComponent } from './home';
 import { AboutComponent } from './about';
 import { NoContentComponent } from './no-content';
 import { XLargeDirective } from './home/x-large';
-
-import '../styles/headings.css';
 import { ChartViewComponent } from './chartView/chartView.component';
 
 // Application wide providers
